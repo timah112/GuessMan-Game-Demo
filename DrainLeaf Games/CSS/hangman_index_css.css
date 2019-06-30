@@ -1,0 +1,106 @@
+
+/*#nav {
+	background-color: #273746;
+	text-align: center;
+	color: #FDFEFE;
+	right: 0;
+  left: 0;
+  top: 0; 
+  padding: 0.4rem;
+  position: fixed; 
+  width: 100%; 
+	
+} */
+
+.header{
+  margin-top: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.container {
+	
+	background-color: #FDFEFE;
+	margin-left: auto;
+	margin-right: auto;
+  margin-top: auto;
+	padding: 10px 10px 10px 10px;
+	
+}
+
+#game {
+  border: 3px solid black;
+  background-color:#34495E;
+  color: white;
+  width: 60%;
+  height: 400px;
+  display: table-cell;
+  float: left;
+  margin-right: 5px;
+}
+#gameSide{
+  border: 3px solid black;
+  background-color:#34495E;
+  color: white;
+  display: table-cell;
+  width: 36%;
+  height: 400px;
+  float: right;
+  /*margin-right: 50px; 
+  margin-left: 5px; */
+
+}
+label {
+  display:block;
+  font-size: 20px;
+}
+#numOfTriesBox{
+    border: 2px solid black;
+    border-radius: 25%;
+    background-color:white;
+    color: black;
+    width: 20%;
+    height: 80px;
+    display:block;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    text-align: "center";
+  }
+  #numOfTries{
+    font-size: 30px;
+    text-align: "center";
+
+  }
+ 
+textarea { font-size: 18px; }
+
+#increaseDashBtn{
+  margin-top: 15px;
+  background-color: #008CBA;
+  text-align:center;
+  color: white;
+  
+  }
+  
+  #playBtn{
+  text-align:center;
+    
+  }
+  
+  #enterTextBtn{
+  text-align:center;
+  }
+  
+  #enterLetterButton{
+  color: white;
+  background-color: #008CBA;
+  }
+
+  
+
+#textBox{
+	text-align: center;
+}
+
+
+
